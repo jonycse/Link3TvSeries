@@ -3,6 +3,7 @@ USER_NAME = "user"
 # link3 password
 PASSWORD = "password"
 
+# change the TV series url here
 TV_SERIES_URL = "http://www.cinehub24.com/item/tvseries/english-tv-program/cosmos-a-spacetime-odyssey-season-1.aspx"
 # folder under "downloads" directory
 SAVED_FOLDER_NAME = "Cosmos Season 1"

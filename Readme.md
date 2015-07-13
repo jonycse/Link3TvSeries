@@ -1,6 +1,6 @@
 I wrote this script for download TV series from link3 local server.
 
-## Please Follow this steps:
+## Please follow this steps:
 + cd to source directory
 + pip install -r requirements.txt
 + change the value of **config.py** file
